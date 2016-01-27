@@ -1,0 +1,15 @@
+From a717a76fb06612b08c4436a797de158160ab7a67 Wed, 27 Jan 2016 17:23:21 +0100
+From: Goiuria <gsagardui@mondragon.edu>
+Date: Wed, 27 Jan 2016 17:08:06 +0100
+Subject: [PATCH] cambio de la rama3 al fichero 2
+
+diff --git a/Practica git eclipse/src/File2 b/Practica git eclipse/src/File2
+index cfd0bd7..5159614 100644
+--- a/Practica git eclipse/src/File2
++++ b/Practica git eclipse/src/File2
+@@ -1 +1,2 @@
+-nuevo fichero creado en el master
+\ No newline at end of file
++nuevo fichero creado en el master
++cambio del fichero2 de la rama 3
+\ No newline at end of file
