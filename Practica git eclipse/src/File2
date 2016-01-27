@@ -1,2 +1,6 @@
 nuevo fichero creado en el master
+<<<<<<< HEAD
 cambio del fichero2 de la rama 3
+=======
+cambio desde la rama2
+>>>>>>> refs/heads/rama2
